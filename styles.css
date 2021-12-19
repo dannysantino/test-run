@@ -18,3 +18,8 @@ p {
     display: flex;
     flex-direction: column;
 }
+
+input {
+    padding: .3rem;
+    margin: .5rem;
+}
