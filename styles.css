@@ -13,3 +13,8 @@ p {
     line-height: 1.5;
     padding: 1rem;
 }
+
+.row {
+    display: flex;
+    flex-direction: column;
+}
