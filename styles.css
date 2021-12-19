@@ -7,3 +7,9 @@
 h1 {
     font-size: 2rem;
 }
+
+p {
+    font-size: .5rem;
+    line-height: 1.5;
+    padding: 1rem;
+}
